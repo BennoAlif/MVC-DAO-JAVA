@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/coolyeah/oop/LatihanCRUD/src/latihancrud/database/KingBarbershopDatabase.java</file>
+            <file>file:/D:/coolyeah/oop/LatihanCRUD/src/latihancrud/main/LatihanCRUD.java</file>
+            <file>file:/D:/coolyeah/oop/LatihanCRUD/src/latihancrud/view/PelangganView.java</file>
+            <file>file:/D:/coolyeah/oop/LatihanCRUD/src/latihancrud/model/TabelPelangganModel.java</file>
+            <file>file:/D:/coolyeah/oop/LatihanCRUD/src/latihancrud/controller/PelangganController.java</file>
+            <file>file:/D:/coolyeah/oop/LatihanCRUD/src/latihancrud/entity/Pelanggan.java</file>
+            <file>file:/D:/coolyeah/oop/LatihanCRUD/src/latihancrud/model/PelangganModel.java</file>
+            <file>file:/D:/coolyeah/oop/LatihanCRUD/src/latihancrud/impl/PelangganDaoImpl.java</file>
+            <file>file:/D:/coolyeah/oop/LatihanCRUD/src/latihancrud/event/PelangganListener.java</file>
+            <file>file:/D:/coolyeah/oop/LatihanCRUD/src/latihancrud/error/PelangganException.java</file>
+            <file>file:/D:/coolyeah/oop/LatihanCRUD/src/latihancrud/service/PelangganDao.java</file>
+        </group>
+    </open-files>
+</project-private>
